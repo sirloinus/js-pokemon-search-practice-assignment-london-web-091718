@@ -19,10 +19,11 @@ body {
 }
 
 #pokemon-search-input {
-  font-size: 3rem;
+  font-size: 2rem;
   border: 3px solid #fecd2f;
   color: #2d72fc;
-  border-radius: 2em
+  border-radius: 2em;
+  text-align: center;
 }
 
 #pokemon-logo {
